@@ -1,4 +1,4 @@
-<h2 align="center">Estudiante en ingenieria de sistemas</h2>
+<h2 align="center">Perfil</h2>
 
 <br>
 <p>
